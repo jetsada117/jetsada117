@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Jetsada 👋
 
-<!--
-**jetsada117/jetsada117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & Mobile Developer passionate about building robust web services, APIs, and mobile applications.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** Python, Dart, JavaScript
+- **Backend & APIs:** FastAPI, Flask, Node.js
+- **Mobile Development:** Flutter
+- **Databases:** MySQL, Firebase, ChromaDB
+- **Tools & DevOps:** Docker, Git, Linux/WSL, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jetsada117&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jetsada117&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Connect with Me
+- 💼 Portfolio: [profile.johannes-dev.online](https://profile.johannes-dev.online)
